@@ -1,0 +1,5 @@
+/mocha-unit-test/node_modules
+/mocha-unit-test/nbproject
+/node_modules
+/nbproject
+/debug.log
