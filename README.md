@@ -8,8 +8,14 @@ A coding standards document tells developers how they must write their code. Ins
 
 Coding standards are great — but how do you decide which standards you want to apply, and how they will be defined? When you formulate your ideal coding style, you should think about these points:
 
-Can you actually read the code? Is it spaced out clearly?
+Can you actually read the code?
+
+Is it spaced out clearly?
+
 Do you separate blocks of code into ‘paragraphs’ so that different sections are easily defined?
+
 Are you using indentation to show where control structures (if, else, while and other loops) begin and end, and where the code within them is?
+
 Are your variable naming conventions consistent throughout the code and do they briefly describe that data that they’ll contain?
+
 Are functions named in accordance with what they do?
