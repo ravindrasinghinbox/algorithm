@@ -1,3 +1,7 @@
+if(typeof require !== 'undefined'){
+    chai = require('chai');
+    require('../index');
+}
 var assert = chai.assert;
 
 describe('Sort element expect self',function(){

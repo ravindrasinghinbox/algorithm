@@ -1,3 +1,8 @@
+if(typeof require !== 'undefined'){
+     chai = require('chai');
+     addNumber = require('../index');
+}
+
 var assert = chai.assert;
 
 describe('Add Number',function(){
